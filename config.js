@@ -7,4 +7,4 @@ window.PORTFOLIO_PROFILE = {
  backgroundPosition: "center 42%"
 };
 // Isi jika ingin menampilkan kontak asli. Jangan memakai data orang lain.
-window.PORTFOLIO_CONTACT = { email: "", instagram: "" };
+window.PORTFOLIO_CONTACT = { email: "griseldahelgadana@gmail.com", instagram: "strawyshell" };
